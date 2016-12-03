@@ -24,7 +24,4 @@ public class ElevatorContoller : MonoBehaviour {
             yield return null; 
         }
     }
-
-    // Boarding이 허락이 나면 Elevator_Opration에 있는 request()를 만들어서 Person객체 넘겨주기
-    // Run() 만들기 - odd, even, total 중 어느 엘리베이터의 run()을 불러올지 결정
 }
